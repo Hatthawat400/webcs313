@@ -1,0 +1,49 @@
+    body {
+        padding-top: 5rem;
+    }
+
+    .starter-template {
+        padding: 3rem 1.5rem;
+        text-align: center;
+        background-color: rgb(95, 97, 99);
+    }
+
+    .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+
+    @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+            font-size: 3.5rem;
+        }
+        .col-md-5 {
+            font-size: 5px;
+        }
+        .navbar {
+            background-color: rgb(117, 116, 117);
+            height: 100px;
+        }
+        .lead {
+            font-size: 40px;
+        }
+        .thetopic {
+            font-size: 70px;
+        }
+        .topic {
+            font-size: 50px;
+            color: rgb(252, 199, 55);
+        }
+        .pro {
+            font-size: 50px;
+            color: rgb(0, 0, 0);
+            background-color: rgb(255, 255, 255);
+            display: flex;
+            justify-content: center;
+            align-items: center
+        }
+    }
